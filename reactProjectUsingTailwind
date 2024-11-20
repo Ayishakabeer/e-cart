@@ -1,2 +1,8 @@
 Install Tailwind CSS with Vite
 npm install -D tailwindcss postcss autoprefixer
+dynamic routing : we can set up a changing value in arl along with : so react app will understand that the value along with : is dynamic pafg of this url.
+path setting
+    -npm i react-router-dom
+hooks-predifined functions
+useParams(): is used to access the dynatic value of a route with a component
+useSelector(): hook is used ti dispatch
